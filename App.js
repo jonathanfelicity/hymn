@@ -17,7 +17,7 @@ import {
   About,
   Setting,
 
-} from './src/screens/index';
+} from './src/screens';
 
 
 
